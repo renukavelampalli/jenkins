@@ -3,7 +3,7 @@ Library    SeleniumLibrary
 
 *** Variables ***
 ${url}  https://www.facebook.com/
-${Browser}  chrome
+${Browser}  headlesschrome
 ${username}     user1
 ${password}     pwd1
 *** Keywords ***
