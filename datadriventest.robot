@@ -4,8 +4,8 @@ Library    SeleniumLibrary
 *** Variables ***
 ${url}  https://www.facebook.com/
 ${Browser}  headlesschrome
-${username}     user1
-${password}     pwd1
+${username}     user2
+${password}     pwd2
 *** Keywords ***
 Open the Browser
     Open Browser    ${url}  ${Browser}
